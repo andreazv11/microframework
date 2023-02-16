@@ -10,7 +10,7 @@
 <body>
     <table>
         <tr>
-            <th>ID
+            <th>Code
             </th>
             <th>Item
             </th>
