@@ -11,5 +11,5 @@ $config->set('viewsFolder', 'views/');
 $config->set('dbhost', 'containers-us-west-181.railway.app:7910');
 $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
-$config->set('dbpass', 'EUM30bNuGgIhvJBL8S1J ');
+$config->set('dbpass', 'EUM30bNuGgIhvJBL8S1J');
 ?>
